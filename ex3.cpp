@@ -7,6 +7,7 @@ using namespace std;
 // str. Si cette lettre apparait plusieurs fois c'est la
 // dernière instance qui doit être retournée.
 
+
 int main() {
 
    string s{"wisigoth"};
